@@ -3,13 +3,13 @@ img{
     margin: 20px;
     background-color: #083808;
   }
-  h1{
+  .Nombre{
     color: #49d45c;
     font-size: 25px;
     font-family: "Baskerville Old Face";
     margin: 20px;
   }
-  h2{
+  .DNI{
     color: #b13180;
     font-size: 20px;
     font-family: "Baskerville Old Face";
