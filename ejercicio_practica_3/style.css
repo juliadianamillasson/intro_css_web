@@ -1,0 +1,12 @@
+ul{
+    list-style: none;
+}
+article{
+    background-color: #515351;
+    border: 0px;
+    padding: 0px;
+    width: 195px;
+    margin-top: 46px;
+    overflow: auto;
+    text-align: left;
+  }
